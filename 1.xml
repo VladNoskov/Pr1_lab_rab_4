@@ -1,0 +1,44 @@
+# Pr1_lab_rab_4
+<?xml version="1.0" encoding="utf-8"?>
+<Staff xmlns="xsd_staff.xsd"> <!--xsd -->
+<Worker>
+<Nomer>333</Nomer>
+<Surname>Metelev</Surname>
+<Name>Egor</Name>
+<MiddleName>Nikolaevich</MiddleName>
+<Dolsnost>Guard</Dolsnost>
+<Zvanie>Serchant</Zvanie>
+</Worker>
+<Worker>
+<Nomer>245</Nomer>
+<Surname>Shestakov</Surname>
+<Name>Pavel</Name>
+<MiddleName>Sergeevi4</MiddleName>
+<Dolsnost>Guard</Dolsnost>
+<Zvanie>Serchant</Zvanie>
+</Worker>
+<Worker>
+<Nomer>543</Nomer>
+<Surname>Shestakov</Surname>
+<Name>Kirill</Name>
+<MiddleName>Alekseevich</MiddleName>
+<Function>Stasher</Dolsnost>
+<Zvanie>Mayour</Zvanie>
+</Worker>
+<Worker>
+<Nomer>145</Nomer>
+<Surname>Astashov</Surname>
+<Name>Andrey</Name>
+<MiddleName>Mixaylovi4</MiddleName>
+<Function>President</Dolsnost>
+<Zvanie>Kapitan</Zvanie>
+</Worker>
+<Worker>
+<Nomer>347</Nomer>
+<Surname>Korop4ajin</Surname>
+<Name>Ilya</Name>
+<MiddleName>Alekseevich</MiddleName>
+<Function>Driver</Dolsnost>
+<Zvanie>Serchant</Zvanie>
+</Worker>
+</Staff>
