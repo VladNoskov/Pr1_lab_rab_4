@@ -1,0 +1,22 @@
+# Pr1_lab_rab_4
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Staff">
+<xs:complexType>
+<xs:choice maxOccurs="unbounded">
+<xs:element name="Worker" minOccurs="0" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="Nomer" type="xs:int" />
+<xs:element name="Surname" type="xs:string" />
+<xs:element name="Name" type="xs:string" />
+<xs:element name="MiddleName" type="xs:string" />
+<xs:element name="Dolsnost" type="xs:string" />
+<xs:element name="Zvanie" type="xs:date" />
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:choice>
+</xs:complexType>
+</xs:element>
+</xs:schema>
