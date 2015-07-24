@@ -1,0 +1,92 @@
+# Pr1_lab_rab_4
+<?xml version="1.0" encoding="utf-8"?>
+<Staff xmlns="xsd_staff2.xsd"> 
+<Worker IDWorker="1">
+<Surname>Metelev</Surname>
+<Name>Egor</Name>
+<MiddleName>Igorevich</MiddleName>
+<Dolshnost>Driver</Dolshnost>
+<Data>2010-12-11</Data>
+<Children id_Children="1">
+<BabyName>Ksusha</BabyName>
+<Birthday>1996-06-12</Birthday>
+<NewYearPresents id_Presents="1">
+<PresentPrice>200</PresentPrice>
+<DeliveryDate>2012-12-31</DeliveryDate>
+</NewYearPresents>
+<NewYearPresents id_Presents="2">
+<PresentPrice>400</PresentPrice>
+<DeliveryDate>2013-01-07</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Worker>
+<Worker>
+<IDWorker>2</IDWorker>
+<Surname>Sidelnikov</Surname>
+<Name>Vitaliy</Name>
+<MiddleName>Alexanrovich</MiddleName>
+<Dolshnost>Guard</Dolshnost>
+<Data>2009-07-12</Data>
+<Children id_Children="1">
+<BabyName>Tosha</BabyName>
+<Birthday>2013-02-24</Birthday>
+<NewYearPresents id_Presents="1">
+<PresentPrice>400</PresentPrice>
+<DeliveryDate>2014-12-31</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Worker>
+<Worker>
+<IDWorker>3</IDWorker>
+<Surname>Lobastov</Surname>
+<Name>Misha</Name>
+<MiddleName>Alekseevich</MiddleName>
+<Dolshnost>President</Dolshnost>
+<Data>2011-01-16</Data>
+<Children id_Children="1">
+<BabyName>Vanya</BabyName>
+<Birthday>2009-12-09</Birthday>
+<NewYearPresents id_Presents="1">
+<PresentPrice>150</PresentPrice>
+<DeliveryDate>2010-12-31</DeliveryDate>
+</NewYearPresents>
+<NewYearPresents id_Presents="2">
+<PresentPrice>300</PresentPrice>
+<DeliveryDate>2010-01-07</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Worker>
+
+<Worker>
+<IDWorker>4</IDWorker>
+<Surname>Shutov</Surname>
+<Name>Dima</Name>
+<MiddleName>Alexeevich</MiddleName>
+<Dolshnost>Constructor</Dolshnost>
+<Data>2012-10-05</Data>
+<Children id_Children="1">
+<BabyName>Sergey</BabyName>
+<Birthday>2011-04-19</Birthday>
+<NewYearPresents id_Presents="1">
+<PresentPrice>500</PresentPrice>
+<DeliveryDate>2012-12-31</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Worker>
+<Worker>
+<IDWorker>5</IDWorker>
+<Surname>Shustova</Surname>
+<Name>Masha</Name>
+<MiddleName>Stepanovna</MiddleName>
+<Dolshnost>Painter</Dolshnost>
+<Data>2013-12-19</Data>
+<Children id_Children="1">
+<BabyName>Semen</BabyName>
+<Birthday>2014-08-02</Birthday>
+<NewYearPresents id_Presents="1">
+<PresentPrice>800</PresentPrice>
+<DeliveryDate>2015-12-31</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Worker>
+</Staff>
